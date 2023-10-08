@@ -1,2 +1,4 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+
+Defines the annotations used by [simple_http_gen] to create code for simple http request..
+
+[simple_http_gen]: https://pub.dev/packages/simple_http_gen
