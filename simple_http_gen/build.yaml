@@ -1,0 +1,8 @@
+builders:
+  pathParam:
+    import: "package:simple_http_gen/src/http_generator.dart"
+    builder_factories: ["httpBuilder"]
+    build_extensions: {".dart": [".path_param.g"]}
+    auto_apply: root_package
+    build_to: source
+    applies_builders: ["source_gen"]
