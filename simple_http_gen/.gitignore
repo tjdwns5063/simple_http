@@ -2,4 +2,6 @@ test/src/test_library.g.dart
 pubspec.lock
 .dart_tool
 .idea
+.packages
+.pub/
 
