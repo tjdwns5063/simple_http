@@ -6,3 +6,6 @@
 
 ## 0.0.3 
 Separate annotation to simple_http_annotation
+
+## 0.0.4
+Change README.md
