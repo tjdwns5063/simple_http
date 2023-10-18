@@ -1,4 +1,4 @@
-import 'package:simple_http_gen/src/annotation.dart';
+import 'package:simple_http_annotation/simple_http_annotation.dart';
 
 abstract class QueryAnnotationTest {
   Future<dynamic> one(@Query('name') name);

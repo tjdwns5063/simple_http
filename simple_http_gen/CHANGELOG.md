@@ -9,3 +9,6 @@ Separate annotation to simple_http_annotation
 
 ## 0.0.4
 Change README.md
+
+## 0.0.5
+Fix Annotation Dependency

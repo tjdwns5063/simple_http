@@ -1,9 +1,9 @@
 import 'package:source_gen/source_gen.dart';
-import 'package:simple_http_gen/src/annotation.dart';
 import 'package:simple_http_gen/src/parser/delete_parser.dart';
 import 'package:simple_http_gen/src/parser/http_method_parser.dart';
 import 'package:test/test.dart';
 import 'package:analyzer/dart/element/element.dart';
+import 'package:simple_http_annotation/simple_http_annotation.dart';
 
 import 'util.dart';
 
