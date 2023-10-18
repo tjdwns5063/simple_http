@@ -3,3 +3,6 @@
 
 ## 0.0.2
 - Add Usage in README.md
+
+## 0.0.3 
+Separate annotation to simple_http_annotation
