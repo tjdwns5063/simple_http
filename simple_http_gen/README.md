@@ -72,9 +72,7 @@ dart pub run build_runner build
 This command generates the necessary code based on the abstract class you've created.
 
 
-### [Example](https://github.com/tjdwns5063/simple_http_gen/blob/main/example/example.dart)
-
-
+### [Example](https://github.com/tjdwns5063/simple_http/blob/master/simple_http_gen/example/example.dart)
 
 
 
