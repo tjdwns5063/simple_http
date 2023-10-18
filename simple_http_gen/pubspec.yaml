@@ -1,7 +1,7 @@
 name: 'simple_http_gen'
 description: A Simple Http Code Generator.
 homepage: https://github.com/tjdwns5063/simple_http_gen
-version: 0.0.3
+version: 0.0.4
 
 environment:
   sdk: '>=3.0.0 <4.0.0'
