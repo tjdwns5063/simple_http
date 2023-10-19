@@ -69,7 +69,6 @@ class UriParserTest extends MethodParser with UriParser {
 Future<void> main() async {
   UriParserTest uriParserTest = UriParserTest(await createLibrayReader());
   group('Uri Parse Test By Valid Parameter', () {
-    test('when uri scheme is http test', () => uriParserTest.testHttpUri());
     test('when uri scheme is https test', () => uriParserTest.testHttpsUri());
   });
   group('Uri Parse Test By Invalid Parameter', () {

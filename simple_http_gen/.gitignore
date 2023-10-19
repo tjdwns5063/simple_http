@@ -4,4 +4,4 @@ pubspec.lock
 .idea
 .packages
 .pub/
-
+coverage/

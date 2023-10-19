@@ -22,15 +22,18 @@ abstract class HeaderAnnotationTest {
       @Header('Content-Type') String content_type);
 }
 
+@Base(baseUrl: 'https://example.org')
 abstract class HttpUriParseTest {
-  @GET(endPoint: 'api/v1/hello')
+  @GET(endPoint: '/api/v1/hello')
   void one();
 }
 
+@Base(baseUrl: 'https://example.org')
 abstract class HttpsUriParseTest {
   void one();
 }
 
+@Base(baseUrl: 'https://example.org')
 abstract class InvalidUriParseTest {
   void one();
 }
